@@ -1,0 +1,120 @@
+USD
+US dollar
+1.0848
+
+JPY
+Japanese yen
+167.23
+
+BGN
+Bulgarian lev
+1.9558
+
+CZK
+Czech koruna
+25.425
+
+DKK
+Danish krone
+7.4618
+
+GBP
+Pound sterling
+0.83973
+
+HUF
+Hungarian forint
+393.28
+
+PLN
+Polish zloty
+4.2890
+
+RON
+Romanian leu
+4.9706
+
+SEK
+Swedish krona
+11.6875
+
+CHF
+Swiss franc
+0.9609
+
+ISK
+Icelandic krona
+149.70
+
+NOK
+Norwegian krone
+11.9420
+
+TRY
+Turkish lira
+35.6509
+
+AUD
+Australian dollar
+1.6428
+
+BRL
+Brazilian real
+6.0759
+
+CAD
+Canadian dollar
+1.4953
+
+CNY
+Chinese yuan renminbi
+7.8934
+
+HKD
+Hong Kong dollar
+8.4716
+
+IDR
+Indonesian rupiah
+17622.09
+
+ILS
+Israeli shekel
+3.9403
+
+INR
+Indian rupee
+90.8080
+
+KRW
+South Korean won
+1500.01
+
+MXN
+Mexican peso
+19.8113
+
+MYR
+Malaysian ringgit
+5.0687
+
+NZD
+New Zealand dollar
+1.8267
+
+PHP
+Philippine peso
+63.558
+
+SGD
+Singapore dollar
+1.4577
+
+THB
+Thai baht
+39.197
+
+ZAR
+South African rand
+19.8662
+
